@@ -12,3 +12,7 @@
 это код из ветки2
 
 будет тестировать git pull
+
+Привет from Анастасия
+
+Greetings from Nastya
